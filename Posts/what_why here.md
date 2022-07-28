@@ -1,8 +1,8 @@
 # What/Why Here?
 
-Five years of academia have vampired my writing process. I slip into the passive voice without thinking. I struggle to complete sentence fragments that are missing a citation. I fret that organizational *practice* scholars will be upset that I called something a routine and *routine* researchers won't like my practice literature citation.
+Five years of academia have vampired my writing process. I slip into the passive voice without thinking. I struggle to complete sentence fragments that are missing a citation. I fret that organizational practice scholars will be upset that I called something a *routine* and routine researchers won't like my practice literature citation.
 
-💀
+:skull:
 
 I didn't even notice the lifeblood of my writing draining out until it flat-lined this past December. I couldn't write much of anything in any context and what I could write took hours to put down. Bye bye emails. Adios text messages. Hello to the wordless oblivion of living on the opposite coast of family and friends with scant electronic communication during a pandemic. After five months I finally managed to write the words necessary to take a leave of absence from school.
 
