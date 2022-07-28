@@ -1,6 +1,6 @@
 Menu: yes
 
-## About
+## About Nick Sherefkin
 
 I play games, study with sociologists, and appreciate my surroundings. I like to write about play, democratic action, and Buddhist practice.
 
@@ -12,7 +12,7 @@ email: nsherefkin within the buzzing gmail hive.
 
 ## Blogging inspirations (ordered by 2nd letter of first name/word):
 
-- [Haley Nahman](https://haleynahman.substack.com) puts her fingers on a pulse of American culture and shares the beat with humor and thoughtfulness.
+- [Haley Nahman](https://haleynahman.substack.com) puts her finger on a pulse of American culture and shares the beat with humor and thoughtfulness.
 - [Jason Kottke](https://kottke.org/) host a venerable, internet dreamcatcher of a blog.
 - [Kieran Healy](https://kieranhealy.org/blog/) plays with sociological ideas. He also shares and explains handy little bits of R code that can be particularly useful for data wranglers.
 - [Mike Rugnetta](https://rugnetta.com) is my internet intellectual idol. He produces prolifically, I consume consummately, and I am never disappointed.
