@@ -1,8 +1,9 @@
 Menu: yes
 
-## About Nick Sherefkin
+# About
 
-I play games, study with sociologists, and appreciate my surroundings. I like to write about play, democratic action, and Buddhist practice.
+I play games, study with sociologists, and exercise gratitude. 
+I write about play, democratic action, and Buddhist practice.
 
 This blog is a playground for my ideas and an archive of past interests and entertainments. 
 
@@ -18,6 +19,6 @@ email: nsherefkin within the buzzing gmail hive.
 - [Mike Rugnetta](https://rugnetta.com) is my internet intellectual idol. He produces prolifically, I consume consummately, and I am never disappointed.
 - [Andrew Gelman](https://statmodeling.stat.columbia.edu) has fostered an incredible community of scientists deeply concerned with the transparency, veracity, and inclusivity of science. This is a great place to see skepticism put to constructive use. 
 - [Sorry Watch](https://sorrywatch.com) studies apologies from all over time and social space. Their writing has transformed how I think and feel about harm, moral responsibilities, and restorative justice.
-- [Eric Dennis](https://roundhouseblacksmith.com/musings/) muses about blacksmithing and the way making ties us to the material world.
+- [Eric Dennis](https://roundhouseblacksmith.com/musings/) muses about blacksmithing and the relationships between creativity and the material world.
 
 Slingshot Divining Rod is hosted on Blot.im.
