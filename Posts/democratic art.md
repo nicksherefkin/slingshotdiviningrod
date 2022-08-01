@@ -1,6 +1,6 @@
 # Democratic Art
 
-![Alice Neel's *George Arce No. 2*](https://live.staticflickr.com/65535/51778347808_6d4d88c8fe_3k.jpg)
+![Alice Neel's *The Spanish Family*](https://live.staticflickr.com/65535/51761436385_4b169539bf_3k.jpg")
 
 A couple summers ago, Zadie Smith's *White Teeth* thrilled Alison and then ruined the rest of her summer reading list.
 After *White Teeth* the appeal of a "regular" novel was gone and Alison kept re-imagining sections of the book to figure out why.
@@ -42,5 +42,6 @@ Please suggest additions if you can think of any!
 - John Cage's 4'33"
 - John Cage's Radio Music or just scanning with your car radio very slowly
 - [Shrek Retold](https://youtu.be/pM70TROZQsI)
+- [Sweet and Sour car game](https://blogs.cornell.edu/info2040/2018/11/14/where-do-childhood-games-come-from/)
 - [Twitch Plays *Pokémon*](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
