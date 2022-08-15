@@ -35,6 +35,7 @@ Each of these items can serve as beautiful touchstone for inspiring empathy, dis
 Please suggest additions if you can think of any!
 
 - [Alice Neel](https://www.newyorker.com/culture/culture-desk/the-inclusive-humanity-of-alice-neels-paintings)
+- [Claes Oldenburg's "Ode to Possibilities"](https://walkerart.org/magazine/claes-oldenburg-i-am-for-an-art-1961)
 - [Everything Everywhere All at Once](https://www.criticker.com/film/Everything-Everywhere-All-at-Once/)
 - [High Maintenance](https://www.hbo.com/high-maintenance)
 - [How To with John Wilson](https://www.hbo.com/how-to-with-john-wilson)
