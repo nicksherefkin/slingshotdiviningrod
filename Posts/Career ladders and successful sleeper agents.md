@@ -1,5 +1,7 @@
+---
 Title: Career ladders and frustrated sleeper agents
 Draft: Yes
+---
 
 Last week I read a [New Yorker article by Margaret Talbot](https://www.newyorker.com/magazine/2022/09/05/justice-alitos-crusade-against-a-secular-america-isnt-over) investigating why Supreme Court Justice Samuel Alito gets angrier and more outspoken the more he realizes his legal aspirations.
 
