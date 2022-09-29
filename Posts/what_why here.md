@@ -16,7 +16,7 @@ So that is the what and why. May this at least be the start of a proud, obscure,
 
 ***
 
-Here is that list of blog and blog-like places that excite me with every update and inspire my thinking here and everywhere else[^1]:
+Here is that list of blog and blog-like places that excite me with every update and inspire my thinking here and everywhere else:[^1]
 
 - [Haley Nahman](https://haleynahman.substack.com) puts her finger on a pulse of American culture and shares the beat with humor and thoughtfulness.
 - [Jason Kottke](https://kottke.org/) host a venerable, internet dreamcatcher of a blog.

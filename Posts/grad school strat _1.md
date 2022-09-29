@@ -7,7 +7,7 @@ I almost entirely stopped emailing or texting anyone anything.
 This is especially isolating if most of your friends and family live on the opposite coast of the continent.
 When I did manage to send a message, I felt emotionally shucked.
 
-When I finally mustered the juice to bushwhack through the bureaucracy to take a leave of absence[^1], I felt an enormous fog dissipate.
+When I finally mustered the juice to bushwhack through the bureaucracy to take a leave of absence,[^1] I felt an enormous fog dissipate.
 
 Since then I have been reflecting on how I veered so deep into that fog.
 Caring for a fresh baby and shaking off my deadlines revealed areas where I had been neglecting my emotional and mental health.
