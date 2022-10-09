@@ -1,8 +1,8 @@
 ---
 Date: October 8th, 2022
-Title: On Frustrated Sleeper Agents
 Draft: No
 ---
+# On Frustrated Sleeper Agents
 
 Last week I read a [*New Yorker* article by Margaret Talbot](https://www.newyorker.com/magazine/2022/09/05/justice-alitos-crusade-against-a-secular-america-isnt-over) investigating why Supreme Court Justice Samuel Alito gets angrier and more outspoken the more he achieves his legal aspirations.
 
