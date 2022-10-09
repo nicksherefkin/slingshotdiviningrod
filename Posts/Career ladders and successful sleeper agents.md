@@ -1,4 +1,5 @@
 ---
+Date: October 8th, 2022
 Title: On Frustrated Sleeper Agents
 Draft: No
 ---
