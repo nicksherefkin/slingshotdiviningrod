@@ -34,7 +34,7 @@ I suspect that the combination of scorn for leadership and expectation of immens
 The concentrations of power at the top of a bureaucratic hierarchy are more distributed over the body of the organization than a constructive sleeper agent expects.
 
 [Chester Barnard](https://en.wikipedia.org/wiki/Chester_Barnard), the early 20th century telecoms executive turned organizational theorist, wrote from experience of all the difficulties leaders face in exercising their official authority. 
-Barnard believed that leaders tend to have little scope for ordering anything beyond what their subordinates expect ordered. And even then, subordinates will reinterpret orders at their own discretion. 
+Barnard believed that leaders tend to have little scope for ordering anything beyond what their subordinates expect ordered. And even then, subordinates will reinterpret orders at their own discretion.
 To make matters worse, any time a leader makes an order that oversteps their legitimate authority, they lose authority for future orders: "there is no principle of executive conduct better established in good organizations than that orders will not be issued which cannot or will not be obeyed" (*The Functions of the Executive*, 1938). 
 The ponderous hulk of a bureaucracy lurching whichever way a leader commands creates an illusion of executive control. 
 Most of the time the momentum of the organization is the force charting the course and all the executive can do is make it look graceful.
