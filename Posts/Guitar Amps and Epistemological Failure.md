@@ -4,9 +4,9 @@ Draft: No
 ---
 # Guitar Amps and Epistemological Failure
 
-https://youtu.be/wcBEOcPtlYk
+Despite being guitar amp philistine, this video by musician Jim Lill riveted me.
 
-Amps mean nothing to me but this video by musician Jim Lill riveted me.
+https://youtu.be/wcBEOcPtlYk
 
 *Stiff, crisp, sweet, juicy, saggy, flabby, compressed, tight, punchy, midrangey, bright, classy, dark, harsh, fizzy, robust, dynamic.*
 
