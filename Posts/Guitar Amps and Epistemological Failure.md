@@ -13,10 +13,10 @@ https://youtu.be/wcBEOcPtlYk
 Online guitar amp aficionados use these adjectives as tokens of expertise and, unless you have far better hearing than me, they are full of baloney.
 
 It may even be that the subtlety of the distinctions amplifies the mystical power of these expert adjectives.
-I can't distinguish any difference between amp rectifiers but the guru hears flabby not juicy and the precision of the description further validates the guru's accesses to arcane knowledge.
+I can't distinguish any difference between amp rectifiers but the guru hears flabby not juicy and the precision of the description further validates the guru's access to arcane knowledge.
 
 How does a decades-old, energetic community with no institutions or credentialing manage to develop a cult of expertise untethered to reality?
-And the superstitions cost people hundreds of dollars and hours of research scrutinizing minuscule amplifier differences.
+This is all the more impressive given that the superstition costs people hundreds of dollars and hours of research time scrutinizing minuscule amplifier differences.
 
 These ideas jump to mind:
 
@@ -26,8 +26,8 @@ These ideas jump to mind:
 
 All this is not to belittle the amp lovers.
 Lill's video displays how different configurations of amp features dramatically transform a guitar's tone.
-Instead, I belittle amp experts who deluded themselves or else enjoyed their expert voice enough to speak with unearned authority.
-They faux experts guide purchases, gatekeep opinions, and enable grandiose corporate marketing.
-Hopefully Lill's videos puts a chink in their armor.
+But amp experts clearly deluded themselves or else enjoyed their expert voice enough to speak with unfounded authority.
+The faux experts guide purchases, gatekeep opinions, and enable grandiose corporate marketing.
+Hopefully Lill's video puts a chink in their armor.
 
 PS: Lill's video also demonstrates exceptional non-academic scientific method but that is a post for another day.

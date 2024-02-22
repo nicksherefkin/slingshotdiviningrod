@@ -13,7 +13,7 @@ Samuel Alito was a sleeper agent.
 The opportunity structure of the American legal system catastrophically failed to filter out an extremist before he reached the top of the hierarchy.
 This is the kind of outcome that should terrify a bureaucratic organization.
 Elites expect long hierarchies with heavy credentialing to weed out weirdos and extinguish extremists. 
-Only the smoothest stools/pearls (depending on your mood) should pass all the way through a bureaucracy's digestive tract. 
+Only the smoothest pearls/stools (depending on your mood) should pass all the way through a bureaucracy's digestive tract. 
 
 It makes sense that the Supreme Court might lose popular legitimacy for unintentionally empowering a partisan extremist but Alito's declining satisfaction with his situation surprised me.
 Reading Talbot's account inspired me with a hypothesis. 
@@ -41,7 +41,7 @@ Most of the time the momentum of the organization is the force charting the cour
 
 Court analysts have noticed Justice John Roberts' anxiety about departing too far from precedent and the consequences for the legitimacy of the Court's authority. 
 Alito seems less concerned as we should expect from constructive sleeper agents.
-Alito spent his whole career holding his tongue so he could strike down disliked precedents not preserve the legitimacy of the system.
+Alito spent his whole career holding his tongue so he could strike down disliked precedents--not preserve the legitimacy of the system.
 
 The institution of the American legal system may attract constructive sleeper because the formal authority the Supreme Court justices wield is so great, far-reaching, and lightly checked.
 But even here, with such an extreme payoff for climbing the ladder, the constraints of bureaucratic leadership are revealing themselves to Alito's chagrin.
@@ -50,14 +50,14 @@ The dark irony is that even if the American legal system were full of constructi
 The *Dobbs* decision along with Alito's other victories have not birthed a brand new legal era, free of yesteryear's precedents. 
 These successes mark the next chapter for the continuation ongoing conflicts albeit along more conservative lines.
 This is not to dismiss the terrible power and ramifications of these decisions.
-Any incrementalist would take these events as unqualified victories. 
-But to the constructive sleeper agent who has been holding their tongue their entire career on the idea that losing battle after battle will be worth winning the war, Alito seems bitter.
+Any conservative incrementalist would take the recent decisions as unqualified victories. 
+But the persistence of the same fights seems to infuriate Alito, who held his tongue his entire career on the idea that losing those battles would be repaid with winning the war.
 
 Donald Trump's presidency provides a complementary case for these ideas.
 Although he was in not a sleeper agent, he advocated positions and methods that similar politicians believed they had to keep secret.
 And while constructive is the last word you might associate with Trump, he initially sought to build the capacities of the country in a way he considered an improvement.
-But like Alito, Trump underestimated the unruliness of bureaucratic hulks for radical executives. 
-Another [recent *New Yorker* article](https://www.newyorker.com/magazine/2022/08/15/inside-the-war-between-trump-and-his-generals)[^2] captures his surprise by documenting Trump's conflicts with his generals in the waning days of his presidency.
+But like Alito, Trump underestimated the unruliness of bureaucratic hulks to the mandates of radical executives. 
+Another [recent *New Yorker* article](https://www.newyorker.com/magazine/2022/08/15/inside-the-war-between-trump-and-his-generals)[^2] captures this by documenting Trump's conflicts with his generals in the waning days of his presidency.
 
 > It turned out that the generals had rules, standards, and expertise, not blind loyalty. The President’s loud complaint to John Kelly one day was typical: “You fucking generals, why can’t you be like the German generals?”
 
@@ -83,7 +83,7 @@ The mask drops to reveal that the agent's devotion to the organization existed p
 In Alito's case, open partisanship may foreshadow further destructive acts spurred by disillusion with the actuality of the American legal system.[^3]
 
 Frustrated sleeper agents are not evidence that bureaucracies are bullet proof or that executives cannot do grievous harm. 
-Both *New Yorker* articles are illustrations of bureaucratic fragility.
+Both *New Yorker* articles well illustrate bureaucratic fragility.
 
 My minimal takeaway is that the patient, clever connivers who succeed in carrying radical ideologies to the top of a bureaucracy will have predictably adversarial relationships to their peers and the prevailing norms.
 Understanding this recurring relationship could help opponents foresee and resist sleeper agents' agendas. 
@@ -91,7 +91,7 @@ The efforts of radical reformers might also become more transparent and inclusiv
 
 But the twist motivating me to write this post--the twist I had not realized until I was nearly finished writing--is that constructive sleeper agents might be all over.[^4]
 You find them in careerists who secretly fantasize detailed plans for how work could be better managed but never say a peep from 9 to 5.
-You find them among executives who surprise everyone with unexpected reforms and then get bitter or leave when they do not take.
+You find them among executives who surprise everyone with unexpected reforms but then get bitter or leave when the reforms do not take.
 I see constructive sleeper agents all over academia.
 Consider the style of graduate student that can rhapsodize treatises against passé professors and draconian disciplinary rites yet once they hit the job market hide the rhetoric, genuflect to the tried-and-true citations, and unfurl ever-longer CVs.
 Consider the tenured professors that gripe about the uninspired state of current research but seem unable to publish papers to reinvigorate it.
@@ -104,5 +104,5 @@ Trying to outsmart the [iron cage](https://en.wikipedia.org/wiki/Iron_cage) only
 [^1]: That is, sleeper agents expect a concave relationship between their time at an organization and their power to change it. Their power to affect change in the future will be larger than the sum of all the change they could have realized earlier had they not been "sleeping." The required intensity of the future power spike for "sleeping" to be worth it has to be even larger if we do any time discounting (wins now > wins later) or if time spent asleep works counter to the agent's long term goal.
 [^2]: Every page of the article had at least one story that galled me.
 [^3]: This could explain other Supreme Court improprieties such as Justice Thomas' wife's involvement in January 6. This kind of scenario should be giving John Roberts ulcers.
-[^4]: ~~They have lizard eyes, drink blood, and live in the giant hollow beneath Earth's surfaces.~~
+[^4]: ~~They have lizard eyes, drink blood, and live in the giant hollow beneath Earth's surface.~~
 [^5]: In both cases they couched their disdain with a sage scholarly concern that even though *they* __of course__ love collaborative work, *other* less understanding, less progressive faculty at *other* universities would be less magnanimous.
