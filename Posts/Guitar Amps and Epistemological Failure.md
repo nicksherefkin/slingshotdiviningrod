@@ -4,7 +4,7 @@ Draft: No
 ---
 # Guitar Amps and Epistemological Failure
 
-Despite being guitar amp philistine, this video by musician Jim Lill riveted me.
+Despite being a guitar amp philistine, this video by musician Jim Lill riveted me.
 
 https://youtu.be/wcBEOcPtlYk
 
